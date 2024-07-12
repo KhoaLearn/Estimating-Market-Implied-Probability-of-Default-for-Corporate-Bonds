@@ -39,6 +39,8 @@ To install the required packages, run the following commands:
 
 ## Workflow
 
+![Workflow](flow.png)
+
 Here is a high-level overview of the workflow:
 
 1. **Data Collection**:
